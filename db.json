@@ -1,0 +1,33 @@
+{
+  "bookings": [
+    {
+      "movie": "Vikram",
+      "date": "2025-08-26",
+      "time": "9:00 PM",
+      "seats": "2",
+      "ticketType": "Royal",
+      "totalAmount": 380,
+      "id": "c1c2"
+    },
+    {
+      "id": "92e7",
+      "movie": "Kabir Singh",
+      "date": "2025-08-27",
+      "time": "3:00 PM",
+      "seats": "2",
+      "ticketType": "Club",
+      "totalAmount": 300,
+      "rating": null
+    },
+    {
+      "id": "9e44",
+      "movie": "Bangalore Days",
+      "date": "2025-08-28",
+      "time": "11:00 AM",
+      "seats": "4",
+      "ticketType": "Club",
+      "totalAmount": 600,
+      "rating": null
+    }
+  ]
+}
